@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advanced-filtering/static/css/main.0ad25e52.css",
+    "main.js": "/advanced-filtering/static/js/main.9db41100.js",
+    "index.html": "/advanced-filtering/index.html",
+    "main.0ad25e52.css.map": "/advanced-filtering/static/css/main.0ad25e52.css.map",
+    "main.9db41100.js.map": "/advanced-filtering/static/js/main.9db41100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad25e52.css",
+    "static/js/main.9db41100.js"
+  ]
+}
